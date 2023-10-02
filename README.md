@@ -6,6 +6,6 @@
 void main()
 {
 clrscr();
-cout<<"\nHello World! \nI'm Shweta Navalkar (:D)";
+cout<<"\nHello World! \nI'm Shwetar :D";
 getch();
 }
